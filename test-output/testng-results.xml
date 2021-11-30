@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-26T07:20:45Z" name="Default suite" finished-at="2021-11-26T07:20:45Z" duration-ms="121">
+    <groups>
+    </groups>
+    <test started-at="2021-11-26T07:20:45Z" name="Default test" finished-at="2021-11-26T07:20:45Z" duration-ms="121">
+      <class name="org.testMaven.TestngSample">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="launchingBrowser" finished-at="2021-11-26T07:20:45Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="startTime" finished-at="2021-11-26T07:20:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="tc1()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="tc1" finished-at="2021-11-26T07:20:45Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="endTime" finished-at="2021-11-26T07:20:45Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="startTime" finished-at="2021-11-26T07:20:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="tc2()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="tc2" finished-at="2021-11-26T07:20:45Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="endTime" finished-at="2021-11-26T07:20:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="startTime" finished-at="2021-11-26T07:20:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="tc3()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="tc3" finished-at="2021-11-26T07:20:45Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="endTime" finished-at="2021-11-26T07:20:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method signature="tc4()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="tc4" finished-at="2021-11-26T07:20:45Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="startTime" finished-at="2021-11-26T07:20:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="endTime" finished-at="2021-11-26T07:20:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:org.testMaven.TestngSample@68c9133c]" started-at="2021-11-26T07:20:45Z" name="closingBrowser" finished-at="2021-11-26T07:20:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- org.testMaven.TestngSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
